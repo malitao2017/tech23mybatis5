@@ -1,0 +1,11 @@
+
+
+博客标题：
+MyBatis学习总结(五)——实现关联表查询
+http://www.cnblogs.com/xdp-gacl/p/4264440.html
+
+包括：
+一、一对一关联
+二、一对多关联
+
+
